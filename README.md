@@ -1,0 +1,2 @@
+# filterablebooklist
+用react语言实现的网页程序。从输入框中取得关键字，用douban开发者的API把关键字相关的书单信息拉取到本地，筛选后用列表显示。
